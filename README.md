@@ -7,10 +7,12 @@ Microswtich in firebutton - in case you don't want to modify the original pcb.
 
 In order to use autofire, a new cable is required which supplies 5v.
 
+The long arm microswitch needs to be bent 90deg, 1.6-1.7cm from where it enters the house, then +1cm from there approx 80deg. You may need to test it by trial-and-error.
+
 
 # BOM
 4x Microswitches with regular size arm [eBay](https://www.ebay.com/itm/10-X-KW4-3Z-3-Hinge-Roller-Lever-SPDT-Momentary-Micro-Limit-Switch-3D-printer/122688679006).  
-1x Microswitch with long arm (you need to bend the arm yourself) [eBay](https://www.ebay.com/itm/5Pcs-AC250-125V-5A-3P-Momentary-36mm-Lever-Arm-Micro-Switch-Green-KW12-9S/233272820914).  
+1x Microswitch with long arm [eBay](https://www.ebay.com/itm/5Pcs-AC250-125V-5A-3P-Momentary-36mm-Lever-Arm-Micro-Switch-Green-KW12-9S/233272820914).  
 1x 1x7 pin male pinheader.  
   
 **Optional Autofire**  
