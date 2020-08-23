@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Microswitch-no-nc-c-pcb)(type KiCad)(uri "${KIPRJMOD}/New folder/Microswitch-no-nc-c-pcb.pretty")(options "")(descr ""))
+  (lib (name Microswitch-no-nc-c-wire)(type KiCad)(uri ${KIPRJMOD}/Microswitch-no-nc-c-wire.pretty)(options "")(descr ""))
+)
